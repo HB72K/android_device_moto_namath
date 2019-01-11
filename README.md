@@ -8,10 +8,21 @@ Minimal device tree for building TWRP for panelli
 
 (2) repo sync
 
-(3) git clone https://github.com/DhirajSurvase/twrp_device_moto_panelli device/moto/panelli
+(3) git clone https://github.com/HB72K/android_device_moto_panelli.git device/moto/namath
 
-(4) lunch
+(4) source ./build/envsetup.sh && breakfast namath
 
-(5) select option no for omni_panelli-eng
+(5) make recoveryimage 
 
-(6)make recoveryimage -j64
+(6) Enjoy 7u7r
+ 
+ 
+ 
+special thanks to 
+DhirajSurvase
+Mysteryagr
+iykeDROID™
+z31s1g
+Zormax
+Dees_Troy
+MSF Jarvis
