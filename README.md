@@ -8,7 +8,7 @@ Minimal device tree for building TWRP for panelli
 
 (2) repo sync
 
-(3) git clone https://github.com/HB72K/android_device_moto_panelli.git device/moto/namath
+(3) git clone https://github.com/HB72K/android_device_moto_namath.git
 
 (4) source ./build/envsetup.sh && breakfast namath
 
